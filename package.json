@@ -1,0 +1,16 @@
+{
+  "name": "kindredsprofiles",
+  "version": "1.0.0",
+  "description": "generate mockup profiles for kindreds development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lorem-ipsum": "^2.0.3",
+    "uuidv4": "^6.2.12"
+  }
+}
